@@ -144,7 +144,6 @@ console.log(stringInverso(string))
     En conjunto, split() → reverse() → join() permiten invertir el orden de las palabras en una cadena.
 */
 
-
 // 10. Crea una función que calcule el factorial de un número dado
 
 function factorialDeUnNumero(num){
